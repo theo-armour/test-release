@@ -5,6 +5,8 @@ a repo for testing releases and tags
 
 ### 2018-08-01 ~ Theo
 
+* 23:10 ~ add a line more
+* 23:08 ~ R2
 * 23:00 ~ add ==image==
 * 22:57 ~ we have R1
 * 22:41 ~  now what?
